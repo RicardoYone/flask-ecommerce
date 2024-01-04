@@ -1,0 +1,7 @@
+Flask==2.2.2
+Flask-Cors==3.0.10
+SQLAlchemy==1.4.45
+marshmallow==3.19.0
+marshmallow-sqlalchemy==0.28.1
+Flask-Migrate==4.0.0
+flask-marshmallow==0.14.0
